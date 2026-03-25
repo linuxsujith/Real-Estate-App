@@ -1,3 +1,6 @@
+<img width="596" height="251" alt="Screenshot from 2026-03-25 13-06-56" src="https://github.com/user-attachments/assets/d3ae4eef-88f7-4245-986e-0870d8557e08" />
+
+
 # EstateVue - Premium Real Estate PWA
 
 A modern, production-ready real estate web application with a premium Airbnb/Zillow-inspired UI. Built as a Progressive Web App (PWA) that works beautifully on both Android and iOS devices.
